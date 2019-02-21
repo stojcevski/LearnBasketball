@@ -1,0 +1,179 @@
+{
+    "questions": [
+        {
+            "article": "Art. 5 Players - Injury",
+            "statementNo": "5-1",
+            "interpretation": "If a player is injured or appears to be injured and, as a result, the coach, assistant coach, substitute, excluded player or accompanying delegation member of the same team enters the playing court, that player is considered to have received treatment, whether or not actual treatment has been performed.",
+            "questionText": "A1 appears to have an injured ankle and the game is stopped. Team A's doctor enters the playing court and treats A1's injured ankle. A1 is considered to have received treatment and may continue to play.",
+            "answer": 2
+        },
+        {
+            "article": "Art. 5 Players - Injury",
+            "statementNo": "5-1",
+            "interpretation": "If a player is injured or appears to be injured and, as a result, the coach, assistant coach, substitute, excluded player or accompanying delegation member of the same team enters the playing court, that player is considered to have received treatment, whether or not actual treatment has been performed.",
+            "questionText": "A1 appears to have an injured ankle and the game is stopped. Team A's doctor enters the playing court and treats A1's injured ankle. A1 is considered to have received treatment and shall be substituted.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 5 Players - Injury",
+            "statementNo": "5-1",
+            "interpretation": "If a player is injured or appears to be injured and, as a result, the coach, assistant coach, substitute, excluded player or accompanying delegation member of the same team enters the playing court, that player is considered to have received treatment, whether or not actual treatment has been performed.",
+            "questionText": "A1 appears to have an injured ankle and the game is stopped. Team A's doctor enters the playing court but A1 has already recovered. A1 is considered to have received treatment and shall be substituted.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 5 Players - Injury",
+            "statementNo": "5-1",
+            "interpretation": "If a player is injured or appears to be injured and, as a result, the coach, assistant coach, substitute, excluded player or accompanying delegation member of the same team enters the playing court, that player is considered to have received treatment, whether or not actual treatment has been performed.",
+            "questionText": "A1 appears to have an injured ankle and the game is stopped. Team A's doctor enters the playing court but A1 has already recovered. A1 may continue to play.",
+            "answer": 2
+        },
+        {
+            "article": "Art. 5 Players - Injury",
+            "statementNo": "5-1",
+            "interpretation": "If a player is injured or appears to be injured and, as a result, the coach, assistant coach, substitute, excluded player or accompanying delegation member of the same team enters the playing court, that player is considered to have received treatment, whether or not actual treatment has been performed.",
+            "questionText": "A1 appears to have an injured ankle and the game is stopped. Team A's coach enters the playing court to look after his injured player. A1 is considered to have received treatment and shall be substituted.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 5 Players - Injury",
+            "statementNo": "5-1",
+            "interpretation": "If a player is injured or appears to be injured and, as a result, the coach, assistant coach, substitute, excluded player or accompanying delegation member of the same team enters the playing court, that player is considered to have received treatment, whether or not actual treatment has been performed.",
+            "questionText": "A1 appears to have an injured ankle and the game is stopped. Team A's coach enters the playing court to look after his injured player. A1 may continue to play.",
+            "answer": 2
+        },
+        {
+            "article": "Art. 5 Players - Injury",
+            "statementNo": "5-1",
+            "interpretation": "If a player is injured or appears to be injured and, as a result, the coach, assistant coach, substitute, excluded player or accompanying delegation member of the same team enters the playing court, that player is considered to have received treatment, whether or not actual treatment has been performed.",
+            "questionText": "A1 appears to have an injured ankle and the game is stopped. Team A's assistant coach, substitute or any other accompanying delegation member enter the playing court but do not treat A1. A1 is considered to have received treatment and shall be substituted.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 5 Players - Injury",
+            "statementNo": "5-1",
+            "interpretation": "If a player is injured or appears to be injured and, as a result, the coach, assistant coach, substitute, excluded player or accompanying delegation member of the same team enters the playing court, that player is considered to have received treatment, whether or not actual treatment has been performed.",
+            "questionText": "A1 appears to have an injured ankle and the game is stopped. Team A's assistant coach, substitute or any other accompanying delegation member enter the playing court but do not treat A1. A1 may continue to play.",
+            "answer": 2
+        },
+        {
+            "article": "Art. 5 Players - Injury",
+            "statementNo": "5-3",
+            "interpretation": "There is no time limit for the removal of a seriously injured player from the playing court if, according to a doctor's opinion the removal is dangerous for the player.",
+            "questionText": "A1 is seriously injured and the game is stopped for about 15 minutes because the doctor estimates that removal from the playing court could be dangerous for the player.  The doctor's opinion shall determine the appropriate time for the removal of the injured player from the playing court. After the substitution, the game shall be restarted without any sanction.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 5 Players - Injury",
+            "statementNo": "5-5",
+            "interpretation": "If a player is injured or is bleeding, or has an open wound, and cannot continue to play immediately (within approximately 15 seconds), he must be substituted. If a time-out is granted to either team in the same game clock stopped period, and that player recovers during the time-out, he may continue to play only if the scorer's signal for the time-out has sounded before an official beckoned a substitute to become a player.",
+            "questionText": "A1 is injured and the game is stopped. As A1 is not able to continue to play immediately, an official blows his whistle making the conventional sign for a substitution. Either team requests a time-out before a substitute for A1 has entered the game. At the end of the time-out, A1 appears to have recovered and asks to remain in the game. If A1 recovers during the time-out he may continue to play.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 5 Players - Injury",
+            "statementNo": "5-5",
+            "interpretation": "If a player is injured or is bleeding, or has an open wound, and cannot continue to play immediately (within approximately 15 seconds), he must be substituted. If a time-out is granted to either team in the same game clock stopped period, and that player recovers during the time-out, he may continue to play only if the scorer's signal for the time-out has sounded before an official beckoned a substitute to become a player.",
+            "questionText": "A1 is injured and the game is stopped. As A1 is not able to continue to play immediately, an official blows his whistle making the conventional sign for a substitution. Either team requests a time-out before a substitute for A1 has entered the game. At the end of the time-out, A1 appears to have recovered and asks to remain in the game. A1 cannot continue to play and he shall be substituted.",
+            "answer": 2
+        },
+        {
+            "article": "Art. 5 Players - Injury",
+            "statementNo": "5-5",
+            "interpretation": "If a player is injured or is bleeding, or has an open wound, and cannot continue to play immediately (within approximately 15 seconds), he must be substituted. If a time-out is granted to either team in the same game clock stopped period, and that player recovers during the time-out, he may continue to play only if the scorer's signal for the time-out has sounded before an official beckoned a substitute to become a player.",
+            "questionText": "A1 is injured and the game is stopped. As A1 is not able to continue to play immediately, an official blows his whistle making the conventional sign for a substitution. Either team requests a time-out after a substitute for A1 has entered the game. At the end of the time-out, A1 appears to have recovered and asks to remain in the game. A substitute for A1 has already entered the game, therefore A1 cannot re-enter until the next game clock running period has ended.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 5 Players - Injury",
+            "statementNo": "5-7",
+            "interpretation": "Players who have been designated by their coach to start the game or who receive treatment between free throws may be substituted in the event of an injury. In this case the opponents are also entitled to substitute the same number of players, if they so wish.",
+            "questionText": "A1 is fouled and is awarded 2 free throws. After the first free throw the officials discover that A1 is bleeding. A1 is replaced by A6 who shall attempt the second free throw. Team B requests to substitute 2 players. Team B is entitled to substitute only 1 player.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 5 Players - Injury",
+            "statementNo": "5-7",
+            "interpretation": "Players who have been designated by their coach to start the game or who receive treatment between free throws may be substituted in the event of an injury. In this case the opponents are also entitled to substitute the same number of players, if they so wish.",
+            "questionText": "A1 is fouled and is awarded 2 free throws. After the first free throw the officials discover that B3 is bleeding. B3 is replaced by B6. Team A requests to substitute 1 player. Team A is entitled to substitute 1 player.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 7 Coaches: Duties and Powers",
+            "statementNo": "7-1",
+            "interpretation": "At least 40 minutes before the game is scheduled to begin, each coach or his representative shall give the scorer a list with the names and corresponding numbers of the team members who are eligible to play in the game, as well as the name of the captain, the coach and the assistant coach. The coach is personally responsible that the numbers in the list correspond to the numbers on the shirts of the players. At least 10 minutes before the game is scheduled to begin, each coach shall confirm his agreement with the names and corresponding numbers of his team members, as well as the names of the coach, assistant coach and captain by signing the scoresheet.",
+            "questionText": "Team A presents in due time the team list to the scorer. The numbers of 2 players are not the same as the numbers displayed on their shirts or the name of a player is omitted on the scoresheet. This is discovered before the start of the game. The wrong numbers are corrected or the name of the player is added on the scoresheet without any sanction.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 7 Coaches: Duties and Powers",
+            "statementNo": "7-1",
+            "interpretation": "At least 40 minutes before the game is scheduled to begin, each coach or his representative shall give the scorer a list with the names and corresponding numbers of the team members who are eligible to play in the game, as well as the name of the captain, the coach and the assistant coach. The coach is personally responsible that the numbers in the list correspond to the numbers on the shirts of the players. At least 10 minutes before the game is scheduled to begin, each coach shall confirm his agreement with the names and corresponding numbers of his team members, as well as the names of the coach, assistant coach and captain by signing the scoresheet.",
+            "questionText": "Team A presents in due time the team list to the scorer. The numbers of 2 players are not the same as the numbers displayed on their shirts or the name of a player is omitted on the scoresheet. This is discovered after the start of the game. The official stops the game at a convenient moment so as not to disadvantage either team. The wrong numbers are corrected without any sanction. However, the name of the player cannot be added to the scoresheet.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 7 Coaches: Duties and Powers",
+            "statementNo": "7-3",
+            "interpretation": "At least 10 minutes before the game is scheduled to begin, each coach shall indicate the 5 players who are to start the game. Before the game starts the scorer shall check if there is an error regarding these 5 players and, if so, he shall notify the nearest official as soon as possible. If this is discovered before the start of the game the starting 5 players shall be corrected. If this is discovered after the start of the game it shall be disregarded.",
+            "questionText": "It is discovered that 1 of the players on the playing court is not 1 of the confirmed starting 5 players. This occurs before the start of the game. The player shall be replaced by 1 of the 5 players who were to start the game without any sanction.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 7 Coaches: Duties and Powers",
+            "statementNo": "7-3",
+            "interpretation": "At least 10 minutes before the game is scheduled to begin, each coach shall indicate the 5 players who are to start the game. Before the game starts the scorer shall check if there is an error regarding these 5 players and, if so, he shall notify the nearest official as soon as possible. If this is discovered before the start of the game the starting 5 players shall be corrected. If this is discovered after the start of the game it shall be disregarded.",
+            "questionText": "It is discovered that 1 of the players on the playing court is not 1 of the confirmed starting 5 players. This occurs after the start of the game. The error is disregarded and the game continues without any sanction.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 7 Coaches: Duties and Powers",
+            "statementNo": "7-3",
+            "interpretation": "At least 10 minutes before the game is scheduled to begin, each coach shall indicate the 5 players who are to start the game. Before the game starts the scorer shall check if there is an error regarding these 5 players and, if so, he shall notify the nearest official as soon as possible. If this is discovered before the start of the game the starting 5 players shall be corrected. If this is discovered after the start of the game it shall be disregarded.",
+            "questionText": "The coach shall personally indicate the 5 players who are to start the game by marking a small 'x' beside the player's number in the 'Player in' column of the scoresheet.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 8 Playing time, tied score and overtime",
+            "statementNo": "8-1",
+            "interpretation": "An interval of play begins: 20 minutes before the game is scheduled to begin. / When the game clock signal sounds for the end of the quarter or overtime. / In case of an Instant Replay System (IRS) review, at the end of a quarter or overtime after the crew chief has communicated the final decision.",
+            "questionText": "A1 in the act of shooting is fouled simultaneously with the game clock signal for the end of the quarter. A1 is awarded 2 free throws. The free throws shall be administered immediately. The timer shall start his stopwatch for measuring the interval of play after the free throws have been completed.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 8 Playing time, tied score and overtime",
+            "statementNo": "8-1",
+            "interpretation": "An interval of play begins: 20 minutes before the game is scheduled to begin. / When the game clock signal sounds for the end of the quarter or overtime. / In case of an Instant Replay System (IRS) review, at the end of a quarter or overtime after the crew chief has communicated the final decision.",
+            "questionText": "A1 in the act of shooting is fouled simultaneously with the game clock signal for the end of the quarter. The officials become uncertain whether A1 shall be awarded 2 or 3 free throws. The officials decide to use the IRS. The timer shall start his stopwatch for measuring the interval of play after the decision of the review has been communicated and 2 or 3 free throws have been completed.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 9 Beginning and end of a quarter, overtime or the game",
+            "statementNo": "9-1",
+            "interpretation": "A game shall not begin unless each team has a minimum of 5 entitled players on the playing court ready to play. If fewer than 5 players are on the playing court at the time the game is to begin, the officials must be sensitive to any unforeseeable circumstance(s) that could explain the delay. If a reasonable explanation is provided for the delay, a technical foul shall not be charged. If, however, no such explanation is provided, a technical foul against the coach, recorded as 'B1' and/or forfeiture of the game may result upon arrival of further entitled players.",
+            "questionText": "When the game is scheduled to begin, team B has fewer than 5 players on the playing court and ready to play. The team B representative is able to provide a reasonable and acceptable explanation for the late arrival of the team B players. The beginning of the game shall be delayed for a maximum of 15 minutes. If the absent players arrive on the playing court ready to play before 15 minutes have passed the game shall begin without any sanction.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 9 Beginning and end of a quarter, overtime or the game",
+            "statementNo": "9-1",
+            "interpretation": "A game shall not begin unless each team has a minimum of 5 entitled players on the playing court ready to play. If fewer than 5 players are on the playing court at the time the game is to begin, the officials must be sensitive to any unforeseeable circumstance(s) that could explain the delay. If a reasonable explanation is provided for the delay, a technical foul shall not be charged. If, however, no such explanation is provided, a technical foul against the coach, recorded as 'B1' and/or forfeiture of the game may result upon arrival of further entitled players.",
+            "questionText": "When the game is scheduled to begin, team B has fewer than 5 players on the playing court and ready to play. The team B representative is unable to provide a reasonable and acceptable explanation for the late arrival of the team B players. The beginning of the game shall be delayed for a maximum of 15 minutes. If the absent players arrive on the playing court ready to play before 15 minutes have passed a technical foul may be charged against coach B, recorded as 'B1'. Any team A player shall attempt 1 free throw with no line-up. The game shall begin with a jump ball.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 9 Beginning and end of a quarter, overtime or the game",
+            "statementNo": "9-1",
+            "interpretation": "A game shall not begin unless each team has a minimum of 5 entitled players on the playing court ready to play. If fewer than 5 players are on the playing court at the time the game is to begin, the officials must be sensitive to any unforeseeable circumstance(s) that could explain the delay. If a reasonable explanation is provided for the delay, a technical foul shall not be charged. If, however, no such explanation is provided, a technical foul against the coach, recorded as 'B1' and/or forfeiture of the game may result upon arrival of further entitled players.",
+            "questionText": "When the game is scheduled to begin, team B has fewer than 5 players on the playing court and ready to play.  If the absent players have not arrived on the playing court ready to play before 15 minutes have passed, the game may be forfeited in favour of team A and the score recorded as 20:0. The crew chief shall report it, on the reverse side of the scoresheet, to the organising body of the competition.",
+            "answer": 1
+        },
+        {
+            "article": "Art. 9 Beginning and end of a quarter, overtime or the game",
+            "statementNo": "9-1",
+            "interpretation": "A game shall not begin unless each team has a minimum of 5 entitled players on the playing court ready to play. If fewer than 5 players are on the playing court at the time the game is to begin, the officials must be sensitive to any unforeseeable circumstance(s) that could explain the delay. If a reasonable explanation is provided for the delay, a technical foul shall not be charged. If, however, no such explanation is provided, a technical foul against the coach, recorded as 'B1' and/or forfeiture of the game may result upon arrival of further entitled players.",
+            "questionText": "At the beginning of the second half, team A cannot present 5 players entitled to play on the playing court because of injuries, disqualifications etc. Team A shall continue to play with fewer than 5 players.",
+            "answer": 1
+        }
+    ]
+}

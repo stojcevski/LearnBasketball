@@ -1,0 +1,20 @@
+{
+    "questions": [
+        {
+            "questionText": "Shortly after the game clock signal for the end of the third quarter, B1 commits an unsportsmanlike foul on A1. Team A is entitled to the alternating possession throw-in to start the fourth quarter. A1 shall attempt 2 free throws before the start of the fourth quarter with no line-up. The fourth quarter shall start with a team A throw-in from the throw-in line in its frontcourt, with 14 seconds on the shot clock. Team A shall not lose its right to the next alternating possession throw-in at the next jump ball situation.",
+            "answer": 1,
+            "interpretation": "abvbv fhbviev ivbibv bviudnfv i"
+        },
+        {
+            "questionText": "A1 jumps with the ball and is legally blocked by B1. Both players then return to the playing court with both of them having 1 hand or both hands firmly on the ball. A held ball shall not be called.",
+            "answer": 2,
+            "interpretation": "abvbv fhbviev ivbi wwihwbiwc qwedehwdhdwid wdwedw"
+        },
+        {
+            "questionText": "A1 jumps with the ball and is legally blocked by B1. Both players then return to the playing court with both of them having 1 hand or both hands firmly on the ball. A held ball shall be called.",
+            "answer": 1,
+            "interpretation": "abvbv fhbviev ivbibv bvubobdo vevbqovbivd d"
+        }
+        
+    ]
+}
